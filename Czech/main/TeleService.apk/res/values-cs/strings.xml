@@ -1726,4 +1726,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="report_method_entries_item1">Pouze když jsou připojené sluchátka</string>
   <string name="report_method_entries_item2">Vždy</string>
   <string name="report_method_entries_item3">Vypnout</string>
+  <string name="msim_setting_default_voice_description">SIM %d pro hovory</string>
 </resources>

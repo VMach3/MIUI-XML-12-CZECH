@@ -48,4 +48,9 @@
   <string name="show_on_keyguard">Zobrazit na zamyk. obrazovce</string>
   <string name="theme_manager_not_supported">Témata nejsou podporována.</string>
   <string name="three_seconds_auto_hide">Připnout ke hraně po 3s neaktivity</string>
+  <string name="edge_distance_pref_summary">Dotkněte se místa blízko hran displeje pro zobrazení rychlého ovládání</string>
+  <string name="edge_distance_pref_title">Zóny probuzení</string>
+  <string name="edge_mode_custom_summary">Přizpůsobit velikost míst probuzení při hranách displeje</string>
+  <string name="edge_mode_custom_title">Vlastní</string>
+  <string name="edge_mode_default_title">Předvolené</string>
 </resources>

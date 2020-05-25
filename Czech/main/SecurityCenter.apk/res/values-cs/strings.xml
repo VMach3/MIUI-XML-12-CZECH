@@ -3726,4 +3726,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="permission_upgrade_runtime">Povolení pro přístup k vaší poloze a zhotovení fotografie nyní mají možnost udělit přístup pouze jednou. Pro ochranu vašeho soukromí, aplikace nebudou mít k těmto povolením přístup po jejich ukončení.</string>
   <string name="permission_upgrade_title">Aktualizované povolení</string>
   <string name="permission_upgrade_virtual">Pokud nechcete povolit aplikacím přístup k vaším kontaktům nebo historii hovorů, můžete vybrat možnost \"Odeslat prázdnou zprávu\" když přidělíte tato povolení.</string>
+  <string name="app_behavior_start_from_widget">%1s bylo spuštěné widgetem</string>
+  <string name="app_behavior_start_from_widget_single">Tato aplikace byla spuštěna widgetem</string>
 </resources>

@@ -234,4 +234,5 @@ Zadejte město manuálně"</string>
   <string name="manager_city_option_add_home">Přidat na první stranu</string>
   <string name="manager_city_option_view_on_home">Zobrazit na první straně</string>
   <string name="more_expanded">Více</string>
+  <string name="widget_cta_not_agree">Dotkněte se pro info o počasí</string>
 </resources>

@@ -246,7 +246,17 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="unselected">Nevybráno</string>
   <string name="unsupported_home">Aktualizujte na nejnovější verzi MIUI.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
-     <string name="loading_progress_num">(%s%%)</string>
-     <string name="restoring_home_screen_apps">Obnovení z MiCloudu...</string>
-    <string name="restore_from_mimover">Přesunout z vašeho starého zařízení pomocí Přenosu</string>
+  <string name="loading_progress_num">(%s%%)</string>
+  <string name="restoring_home_screen_apps">Obnovení z MiCloudu...</string>
+  <string name="restore_from_mimover">Přesunout z vašeho starého zařízení pomocí Přenosu</string>
+  <string name="btn_restore_wait_china">Počkat na Wi-Fi</string>
+  <string name="cloud_back_up_detail_discription_china">"Tyto položky budou zálohované na Xiaomi Cloud když se připojíte na Wi-Fi: 
+*  Aplikace, rozložení plochy a tapety 
+*  Budík, hodiny a nastavení času 
+*  Nastavení upozornění
+*  MIUI a systémové nastavení
+Poznámka: Data doinstalovaných aplikací nebudou zálohované na Xiaomi Cloud."</string>
+  <string name="cloud_backup_detail_state_summary_china">Vytvořit Xiaomi Cloud zálohu automaticky po připojení na Wi-Fi.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Obnovení zálohy vyžaduje připojení na Wi-Fi.</string>
+  <string name="dialog_title_require_wlan_china">Připojit na Wi-Fi</string>
 </resources>
