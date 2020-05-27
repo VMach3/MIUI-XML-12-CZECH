@@ -3728,4 +3728,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="permission_upgrade_virtual">Pokud nechcete povolit aplikacím přístup k vaším kontaktům nebo historii hovorů, můžete vybrat možnost \"Odeslat prázdnou zprávu\" když přidělíte tato povolení.</string>
   <string name="app_behavior_start_from_widget">%1s bylo spuštěné widgetem</string>
   <string name="app_behavior_start_from_widget_single">Tato aplikace byla spuštěna widgetem</string>
+  <string name="privacy_mask_summary">Namísto vašeho skutečného identifikátora poskytne MIUI aplikacím virtuální ID (OAID). Aplikacím to zabrání sledovat vaše chování, nastavení a chrání vaše soukromí.</string>
+  <string name="privacy_mask_title">Virtuální ID je povolené</string>
 </resources>
